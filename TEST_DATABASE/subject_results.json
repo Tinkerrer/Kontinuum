@@ -1,0 +1,33 @@
+[{
+	"id": 1,
+	"subject": "Math",
+	"result": 74
+},
+{
+	"id": 2,
+	"subject": "Math",
+	"result": 68 
+},{
+	"id": 4,
+	"subject": "Math",
+	"result": 33
+},{
+	"id": 1,
+	"subject": "Russian",
+	"result": 45
+},{
+	"id": 2,
+	"subject": "Russian",
+	"result": 56
+},
+{
+	"id": 3,
+	"subject": "Russian",
+	"result": 62
+},
+{
+	"id": 5,
+	"subject": "Russian",
+	"result": 56
+}
+]

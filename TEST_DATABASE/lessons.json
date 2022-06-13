@@ -1,0 +1,225 @@
+[{
+	"id": 1,
+	"subject": "Math",
+	"date": "27.09.2021",
+	"activity": 5,
+	"homework": 100
+},
+{
+	"id": 2,
+	"subject": "Math",
+	"date": "27.09.2021",
+	"activity": 3,
+	"homework": 91
+},
+{
+	"id": 4,
+	"subject": "Math",
+	"date": "27.09.2021",
+	"activity": 3,
+	"homework": 45
+},
+{
+	"id": 5,
+	"subject": "Russian",
+	"date": "30.09.2021",
+	"activity": 3,
+	"homework": 60
+},
+{
+	"id": 2,
+	"subject": "Russian",
+	"date": "30.09.2021",
+	"activity": 1,
+	"homework": 25
+},
+{
+	"id": 3,
+	"subject": "Russian",
+	"date": "30.09.2021",
+	"activity": 1,
+	"homework": 35
+},
+{
+	"id": 1,
+	"subject": "Russian",
+	"date": "30.09.2021",
+	"activity": 4,
+	"homework": 10
+},
+{
+	"id": 1,
+	"subject": "Math",
+	"date": "04.10.2021",
+	"activity": 2,
+	"homework": 73
+},
+{
+	"id": 2,
+	"subject": "Math",
+	"date": "04.10.2021",
+	"activity": 4,
+	"homework": 58
+},
+{
+	"id": 4,
+	"subject": "Math",
+	"date": "04.10.2021",
+	"activity": 3,
+	"homework": 82
+},
+{
+	"id": 5,
+	"subject": "Russian",
+	"date": "07.10.2021",
+	"activity": 5,
+	"homework": 80
+},
+{
+	"id": 2,
+	"subject": "Russian",
+	"date": "07.10.2021",
+	"activity": 5,
+	"homework": 90
+},
+{
+	"id": 3,
+	"subject": "Russian",
+	"date": "07.10.2021",
+	"activity": 5,
+	"homework": 100
+},
+{
+	"id": 1,
+	"subject": "Russian",
+	"date": "07.10.2021",
+	"activity": 4,
+	"homework": 95
+},
+{
+	"id": 1,
+	"subject": "Math",
+	"date": "11.10.2021",
+	"activity": 4,
+	"homework": 45
+},
+{
+	"id": 2,
+	"subject": "Math",
+	"date": "11.10.2021",
+	"activity": 4,
+	"homework": 10
+},
+{
+	"id": 4,
+	"subject": "Math",
+	"date": "11.10.2021",
+	"activity": 3,
+	"homework": 15
+},
+{
+	"id": 5,
+	"subject": "Russian",
+	"date": "14.10.2021",
+	"activity": 2,
+	"homework": 35
+},
+{
+	"id": 2,
+	"subject": "Russian",
+	"date": "14.10.2021",
+	"activity": 3,
+	"homework": 85
+},
+{
+	"id": 3,
+	"subject": "Russian",
+	"date": "14.10.2021",
+	"activity": 4,
+	"homework": 70
+},
+{
+	"id": 1,
+	"subject": "Russian",
+	"date": "14.10.2021",
+	"activity": 5,
+	"homework": 63
+},
+{
+	"id": 1,
+	"subject": "Math",
+	"date": "19.10.2021",
+	"activity": 5,
+	"homework": 90
+},
+{
+	"id": 2,
+	"subject": "Math",
+	"date": "19.10.2021",
+	"activity": 3,
+	"homework": 55
+},
+{
+	"id": 4,
+	"subject": "Math",
+	"date": "11.10.2021",
+	"activity": 5,
+	"homework": 60
+},
+{
+	"id": 5,
+	"subject": "Russian",
+	"date": "21.10.2021",
+	"activity": 3,
+	"homework": 34
+},
+{
+	"id": 2,
+	"subject": "Russian",
+	"date": "21.10.2021",
+	"activity": 3,
+	"homework": 76
+},
+{
+	"id": 3,
+	"subject": "Russian",
+	"date": "21.10.2021",
+	"activity": 3,
+	"homework": 88
+},
+{
+	"id": 1,
+	"subject": "Russian",
+	"date": "21.10.2021",
+	"activity": 5,
+	"homework": 50
+},
+{
+	"id": 5,
+	"subject": "Russian",
+	"date": "22.10.2021",
+	"activity": 3,
+	"homework": 40
+},
+{
+	"id": 2,
+	"subject": "Russian",
+	"date": "22.10.2021",
+	"activity": 3,
+	"homework": 85
+},
+{
+	"id": 3,
+	"subject": "Russian",
+	"date": "22.10.2021",
+	"activity": 3,
+	"homework": 100
+},
+{
+	"id": 1,
+	"subject": "Russian",
+	"date": "22.10.2021",
+	"activity": 5,
+	"homework": 75
+}
+]
